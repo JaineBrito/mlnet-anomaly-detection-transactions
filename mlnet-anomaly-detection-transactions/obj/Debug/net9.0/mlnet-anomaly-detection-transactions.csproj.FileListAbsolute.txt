@@ -1,0 +1,12 @@
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\bin\Debug\net9.0\mlnet-anomaly-detection-transactions.deps.json
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\bin\Debug\net9.0\mlnet-anomaly-detection-transactions.dll
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\bin\Debug\net9.0\mlnet-anomaly-detection-transactions.pdb
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.csproj.AssemblyReference.cache
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.AssemblyInfoInputs.cache
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.AssemblyInfo.cs
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.csproj.CoreCompileInputs.cache
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.dll
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\refint\mlnet-anomaly-detection-transactions.dll
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\mlnet-anomaly-detection-transactions.pdb
+C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions\obj\Debug\net9.0\ref\mlnet-anomaly-detection-transactions.dll
