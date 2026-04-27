@@ -1,6 +1,3 @@
-C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\bin\Debug\net10.0\mlnet-anomaly-detection-transactions.deps.json
-C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\bin\Debug\net10.0\mlnet-anomaly-detection-transactions.runtimeconfig.json
-C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\bin\Debug\net10.0\mlnet-anomaly-detection-transactions.exe
 C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\bin\Debug\net10.0\mlnet-anomaly-detection-transactions-console.exe
 C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\bin\Debug\net10.0\compras_cartao.csv
 C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\bin\Debug\net10.0\mlnet-anomaly-detection-transactions-console.deps.json
@@ -157,3 +154,4 @@ C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-con
 C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\obj\Debug\net10.0\mlnet-anomaly-detection-transactions-console.pdb
 C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\obj\Debug\net10.0\mlnet-anomaly-detection-transactions-console.genruntimeconfig.cache
 C:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\obj\Debug\net10.0\ref\mlnet-anomaly-detection-transactions-console.dll
+c:\mlnet-anomaly-detection-transactions\mlnet-anomaly-detection-transactions-console\obj\Debug\net10.0\mlnet-anomaly-detection-transactions-console.sourcelink.json

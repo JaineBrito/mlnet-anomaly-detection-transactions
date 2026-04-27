@@ -9,6 +9,8 @@
       "mlnet-anomaly-detection-transactions-console/1.0.0": {
         "dependencies": {
           "Microsoft.ML": "5.0.0",
+          "Microsoft.ML.AutoML": "0.23.0",
+          "Microsoft.ML.LightGbm": "5.0.0",
           "mlnet-anomaly-detection-transactions": "1.0.0"
         },
         "runtime": {

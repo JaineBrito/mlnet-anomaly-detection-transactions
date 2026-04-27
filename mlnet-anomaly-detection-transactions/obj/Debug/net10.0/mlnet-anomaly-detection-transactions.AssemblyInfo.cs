@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mlnet-anomaly-detection-transactions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c55777022ab1150303e21678127593c1cfdba0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("mlnet-anomaly-detection-transactions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mlnet-anomaly-detection-transactions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
